@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Surbhi Soni 👋
 
-<!--
-**surbhi3503/surbhi3503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
+💻 Java Developer in Progress
+📍 India
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Strong Foundation in Java, SQL, DBMS  
+-  Practicing coding problems and improving problem-solving skills
+-  Developing Problem Solving Skils 
+-  Exploring backend development
+-  Working towards becoming a better software developer
+
+Tech Stack
+
+- Languages: Java, Python, SQL
+- Backend: JDBC, SprinBoot(working on)
+- Database: MySQL
+- Core Concepts: OOP, DSA
+- Tools: Git, GitHub, IntelliJ IDEA
+
+Current Focus
+
+- Strengthening Java fundamentals
+- Practicing DSA problems
+- Building Java projects
+
+Connect With Me
+
+- LinkedIn: www.linkedin.com/in/soni-surbhi
+- Email: surbhisoni3503@gmail.com
