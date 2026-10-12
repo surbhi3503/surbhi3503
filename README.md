@@ -1,6 +1,6 @@
 Hi, I'm Surbhi Soni 👋
 
-🎓 MCA Student
+🎓 MCA Graduated
 💻 Java Developer in Progress
 📍 India
 
